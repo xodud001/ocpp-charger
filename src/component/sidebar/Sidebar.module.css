@@ -1,0 +1,35 @@
+.Sidebar{
+    width: 280px;
+    border-right: 1px solid rgb(199, 199, 199);
+    box-shadow: -3px 0px 5px 1px rgb(125, 125, 125);
+    z-index: 20;
+}
+
+.Sidebar button{
+    margin-bottom : 10px;
+    width: 100%;
+}
+
+.Title{
+    display: flex;
+    flex-direction: column;
+}
+
+.Title span{
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+.Sub{
+    font-size: 12px;
+    color: rgb(142, 142, 142);
+}
+
+.Main{
+    font-size: 20px;
+}
+
+.MessageButtons{
+    overflow-y: auto;
+}

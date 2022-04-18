@@ -1,0 +1,8 @@
+.Inputbar{
+    padding : 20px 15px 0 15px;
+    width: 450px;
+    z-index: 10;
+
+    border-right: 1px solid rgb(199, 199, 199);
+    box-shadow: -3px 0px 5px 1px rgb(125, 125, 125);
+}
